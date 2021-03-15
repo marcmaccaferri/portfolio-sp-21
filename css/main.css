@@ -110,6 +110,10 @@ PAGE: PORTFOLIO
     font-size: .75em;
     margin: 0px;
 }
+#gallery {
+    margin: 0px;
+    padding: 0px
+}
 
 
 /*************************
