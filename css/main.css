@@ -121,6 +121,33 @@ PAGE: PORTFOLIO
 PAGE: CONTACT
 *************************/
 
+.contact-info li.phone a {
+    background-image: url('../img/phone.png')
+}
+
+.contact-info li.email a {
+    background-image: url('../img/mail.png')
+}
+
+.contact-info li.twitter a {
+    background-image: url('../img/twitter.png')
+}
+
+.contact-info a {
+    display: block;
+    background-repeat: no-repeat;
+    min-height: 20px;
+    background-size: 20px 20px;
+    padding: 0 0 0 30px;
+    margin: 0 0 10px;
+}
+
+.contact-info {
+    padding: 0px;
+    margin: 0px;
+    font-size: .9em;
+}
+
 
 /*************************
 PAGE: ABOUT
